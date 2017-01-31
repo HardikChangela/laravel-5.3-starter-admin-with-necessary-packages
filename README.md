@@ -6,5 +6,5 @@ Installed Packages
 ### Package 1: Laravel Debugbar
 
 ```
-https://github.com/barryvdh/laravel-debugbar
+[https://github.com/barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 ```
