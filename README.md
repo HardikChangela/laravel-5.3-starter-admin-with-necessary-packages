@@ -13,7 +13,7 @@ https://github.com/barryvdh/laravel-debugbar
 https://github.com/barryvdh/laravel-ide-helper
 ```
 
-### Package 2: Hesto MultiAuth for Laravel
+### Package 3: Hesto MultiAuth for Laravel
 ```
 https://github.com/Hesto/multi-auth
 ```
